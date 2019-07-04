@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.654375f2.chunk.css",
+    "main.js": "/static/js/main.ab1a3ca3.chunk.js",
+    "main.js.map": "/static/js/main.ab1a3ca3.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.771af96e.chunk.js": "/static/js/2.771af96e.chunk.js",
+    "static/js/2.771af96e.chunk.js.map": "/static/js/2.771af96e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.45baad5a03036b3b70132787b875acc2.js": "/precache-manifest.45baad5a03036b3b70132787b875acc2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.654375f2.chunk.css.map": "/static/css/main.654375f2.chunk.css.map",
+    "static/media/buddhism.jpg": "/static/media/buddhism.b7d4dd3b.jpg",
+    "static/media/isabelle.jpg": "/static/media/isabelle.d2bfbc24.jpg",
+    "static/media/sapiens.jpg": "/static/media/sapiens.bd1ef122.jpg"
+  }
+}
